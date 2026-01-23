@@ -67,7 +67,7 @@ program modern_fortran_rest
         res = curl_easy_setopt_url(curl_handle, CURLOPT_URL, url)
 
         ! Perform the request
-        print *, "Fetching data..."
+        print *, "Fetching data!..."
         res = curl_easy_perform(curl_handle)
 
         ! Check for errors (0 = CURLE_OK)
