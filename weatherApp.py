@@ -18,7 +18,7 @@ def main():
         return
 
     if ask_yes_no("Is the sky gray?"):
-        print("\n👉 Suggestion: Put on a rain coat 🌧️")
+        print("\n👉 Suggestion: Put on a rain coat... 🌧️")
         return
 
     if ask_yes_no("Is the sky green?"):
