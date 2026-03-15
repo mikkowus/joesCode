@@ -19,3 +19,10 @@ Tic Tac Toe game
 Python library to get weather results from api.weather.gov
 
 - Joe
+
+## weatherApp.py
+
+AI CLI app for checking the weather in python
+
+- Theresa
+
